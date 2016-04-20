@@ -97,7 +97,7 @@ header {
 .glyphicon-globe {
     position: absolute;
     top: 25px;
-    right: 125px;
+    right: 100px;
     font-size: 26px;
     color: #cfcecd;
     cursor: pointer;
@@ -127,7 +127,7 @@ header {
         display: none;
         position: absolute;
         top: 60px;
-        right: 135px;
+        right: 110px;
     }
     
     .navbar-right>li {
